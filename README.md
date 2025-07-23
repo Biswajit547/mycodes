@@ -1,2 +1,2 @@
 # mycodes
-Th1`is is my first git repository.
+This is my first git repository.
